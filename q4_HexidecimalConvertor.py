@@ -17,7 +17,7 @@ def hex_output(given_hexidecimal_string):
         power += 1
     print(decimal_value)    
 
-        
+    
 
      
 
